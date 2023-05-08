@@ -1,11 +1,11 @@
 <img aling="middle" width='500' src='[https://www.shutterstock.com/image-photo/data-science-deep-learning-artificial-260nw-1247255884.jpg](https://s40424.pcdn.co/in/wp-content/uploads/2022/07/data-science-courses1-650x325.jpg)'>
 <h1 align="center">Hi 👋, I'm Abdul Atif</h1>
-<h3 align="center">Data Scientist Enthusiast From India</h3>
+<h3 align="center">Data Analyst From India</h3>
 <img align='right' alt="coding" width="400" src='https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulatif01&label=Profile%20views&color=0e75b6&style=flat" alt="abdulatif01" /> </p>
 
-- Im Currently learning **ML And Dl**
+- Im Currently learning **SAS**
 
 - 📫 How to reach me **abdulimrann1@gmail.com**
 
